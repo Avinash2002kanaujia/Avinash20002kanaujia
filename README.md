@@ -1,6 +1,6 @@
 ![image](https://github.com/Avinash2002kanaujia/SCA-Github/assets/146478678/4aa7b82a-04b5-48f2-a50d-5f8ac28d64ce)
 <h1 align="center">Hi 👋, I'm Avinash Kanaujia</h1>
-<h3 align="center">I am currently learning c, c++,JAVA,HTML,CSS, React.</h3>
+<h3 align="center">I am currently learning C, C++, JAVA, HTML, CSS, React.</h3>
 
 - 🌱 I’m currently learning **C , C++ , JAVA**
 
